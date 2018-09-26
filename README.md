@@ -17,6 +17,8 @@ I'm an IT architect interested in new tech
 * Linkedin: [https://www.linkedin.com/in/sjraven/](https://www.linkedin.com/in/sjraven/)
 
 ## Pet projects
+* [Nutch-solr-integration](https://github.com/basraven/nutch-solr-integration) An ultra small PoC to show how to combine Apache Nutch and Apache Solr, crawling through web pages and storing the results in Solr for quering
+    * Status: Done, enjoy!
 * [Smart-bob:](https://github.com/basraven/smart-bob) A smart plant based on ESP8266 boards
     * Status: Frontend is done, need to find time to solder some hardware
 * [Smart-socket:](https://github.com/basraven/smart-socket) A smart power socket which controls 433Mhz power sockets (from Blokker)
