@@ -12,16 +12,16 @@ I'm an Enterprise and Technology Architect interested in new tech.
 * Program/Project Management, Coaching
 * Internet of Things
 
-## Usefull links
+## About me
 * Github: [https://github.com/basraven](https://github.com/basraven)
 * Linkedin: [https://www.linkedin.com/in/sjraven/](https://www.linkedin.com/in/sjraven/)
 
-## Pet projects
-* [Server-config:](https://github.com/basraven/server-configs) A large collection of Ansible and Kubernetes scripts for running a multi-site bare-metal Kubernetes "from your own backyard".
-    * Status: Done, but always evolving
+## Active Pet projects
+* [la1r.com:](https://la1r.com) A large collection of intelligent integrations that I created in my home la1r. Please go the la1r.com for more details!
+    * Status: always evolving
 
 ### Fridged pet projects
-* [Ceryx:](https://github.com/basraven/ceryx) A message proxy written in Go with polymorphic integrations such as HTTP, Telegram and Facebook Messenger (future).
+* [Ceryx:](https://github.com/basraven/ceryx) A message proxy written in Go with polymorphic integrations such as HTTP, Telegram and Facebook Messenger (future as part of la1r).
     * Status: Build in one night, batteries not included
 * [Standr:](https://gitlab.com/standr) A Decentrailzed IPFS based marketplace. This projects leverages the IPFS decentralized pardigm to host a ops-free marketplace.
     * Status: In early stage
@@ -37,5 +37,6 @@ I'm an Enterprise and Technology Architect interested in new tech.
     * Status: Died with the decline of Bitcoin in January 2018
 
 ## Disclaimer
-The majority of my work are architecture assets for multinationals in Europe.
-This page (and my Github) only contains material I created for fun and which I am allowed to share.
+The majority of my work are architecture assets for multinationals in Europe from which I cannot not disclose any information
+
+This page, my Github and la1r.com only contain material I created for fun and which I am allowed to share.
